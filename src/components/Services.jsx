@@ -20,7 +20,7 @@ const Services = () => {
             Our Services
           </h1>
           <p className="mt-2 text-center lg:text-start">
-            At Maruti Sale House, we offer a wide range of beauty and cosmetic products tailored to your needs, with prices starting from just 20 INR and extending to accommodate a variety of products and preferences. Whether you're looking for everyday essentials or luxury items, our diverse selection is designed to cater to all your beauty needs.
+            At Maruti Beauty Care, we offer a wide range of beauty and cosmetic products tailored to your needs, with prices starting from just 20 INR and extending to accommodate a variety of products and preferences. Whether you're looking for everyday essentials or luxury items, our diverse selection is designed to cater to all your beauty needs.
           </p>
         </div>
       </div>

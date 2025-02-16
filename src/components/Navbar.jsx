@@ -31,7 +31,7 @@ const Navbar = () => {
           <div className="flex items-center cursor-pointer">
             <Link to="home" spy={true} smooth={true} duration={500} onClick={closeMenu}>
               <h1 className="text-2xl font-semibold text-blue-900">
-                Maruti Sale House
+                Maruti Beauty Care
               </h1>
             </Link>
           </div>
